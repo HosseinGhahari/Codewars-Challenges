@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum without highest and lowest number\bin\Debug\Sum without highest and lowest number.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum without highest and lowest number\bin\Debug\Sum without highest and lowest number.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum without highest and lowest number\bin\Debug\Sum without highest and lowest number.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum without highest and lowest number\obj\Debug\Sum without highest and lowest number.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum without highest and lowest number\obj\Debug\Sum without highest and lowest number.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum without highest and lowest number\obj\Debug\Sum without highest and lowest number.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum without highest and lowest number\obj\Debug\Sum without highest and lowest number.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum without highest and lowest number\obj\Debug\Sum without highest and lowest number.pdb

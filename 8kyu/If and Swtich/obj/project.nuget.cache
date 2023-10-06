@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TivphhOrkEf3xQcKNcp5YzD6QBcnCGXAW+VPlhJipQ/O75axaQp93pK3g5SziXJt0itxEoK9/Mvp3uwv41G60w==",
+  "success": true,
+  "projectFilePath": "C:\\My Work\\2- Programming\\3- C# Learning\\1-Practise And Learning\\Mosh Course\\If and Swtich\\If and Swtich.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Hossein Ghahari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

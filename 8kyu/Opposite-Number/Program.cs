@@ -35,7 +35,7 @@ namespace Opposite_Number
         static void Main(string[] args)
         {
 
-            Console.WriteLine(Kata.Opposite(27));
+            Console.WriteLine(Kata.Opposite(25));
             Console.ReadKey();
         }
     }

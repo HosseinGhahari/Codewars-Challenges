@@ -27,6 +27,8 @@ namespace Sum_without_highest_and_lowest_number
 
     public static class Kata
     {
+
+
         public static int Sum(int[] numbers)
         {
             if (numbers == null || numbers.Length == 0 || numbers.Length == 1)
@@ -56,7 +58,7 @@ namespace Sum_without_highest_and_lowest_number
         static void Main(string[] args)
         {
 
-            var result = Kata.Sum(new[] {});
+            var result = Kata.Sum(new[] {1,3,5,2,6});
             Console.WriteLine(result);
             Console.ReadKey();
         }

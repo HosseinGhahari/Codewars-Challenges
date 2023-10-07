@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Arrays\bin\Debug\Sum Arrays.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Arrays\bin\Debug\Sum Arrays.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Arrays\bin\Debug\Sum Arrays.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Arrays\obj\Debug\Sum Arrays.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Arrays\obj\Debug\Sum Arrays.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Arrays\obj\Debug\Sum Arrays.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Arrays\obj\Debug\Sum Arrays.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Arrays\obj\Debug\Sum Arrays.pdb

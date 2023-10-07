@@ -47,7 +47,6 @@ namespace Sum_without_highest_and_lowest_number
                 return result;
             }
             
-
         }
 
     }
@@ -59,7 +58,7 @@ namespace Sum_without_highest_and_lowest_number
         {
 
             var result = Kata.Sum(new[] {1,3,5,2,6});
-            Console.WriteLine(result);
+            Console.WriteLine($"The result of sum is : {result}");
             Console.ReadKey();
         }
     }

@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Are You Playing Banjo\bin\Debug\Are You Playing Banjo.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Are You Playing Banjo\bin\Debug\Are You Playing Banjo.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Are You Playing Banjo\bin\Debug\Are You Playing Banjo.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Are You Playing Banjo\obj\Debug\Are You Playing Banjo.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Are You Playing Banjo\obj\Debug\Are You Playing Banjo.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Are You Playing Banjo\obj\Debug\Are You Playing Banjo.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Are You Playing Banjo\obj\Debug\Are You Playing Banjo.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Are You Playing Banjo\obj\Debug\Are You Playing Banjo.pdb

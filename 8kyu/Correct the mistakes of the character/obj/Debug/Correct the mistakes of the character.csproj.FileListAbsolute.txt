@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Correct the mistakes of the character\bin\Debug\Correct the mistakes of the character.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Correct the mistakes of the character\bin\Debug\Correct the mistakes of the character.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Correct the mistakes of the character\bin\Debug\Correct the mistakes of the character.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Correct the mistakes of the character\obj\Debug\Correct the mistakes of the character.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Correct the mistakes of the character\obj\Debug\Correct the mistakes of the character.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Correct the mistakes of the character\obj\Debug\Correct the mistakes of the character.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Correct the mistakes of the character\obj\Debug\Correct the mistakes of the character.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Correct the mistakes of the character\obj\Debug\Correct the mistakes of the character.pdb

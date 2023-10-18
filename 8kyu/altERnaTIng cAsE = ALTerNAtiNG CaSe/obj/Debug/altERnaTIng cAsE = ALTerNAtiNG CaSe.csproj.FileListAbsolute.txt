@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\altERnaTIng cAsE = ALTerNAtiNG CaSe\bin\Debug\altERnaTIng cAsE = ALTerNAtiNG CaSe.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\altERnaTIng cAsE = ALTerNAtiNG CaSe\bin\Debug\altERnaTIng cAsE = ALTerNAtiNG CaSe.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\altERnaTIng cAsE = ALTerNAtiNG CaSe\bin\Debug\altERnaTIng cAsE = ALTerNAtiNG CaSe.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\altERnaTIng cAsE = ALTerNAtiNG CaSe\obj\Debug\altERnaTIng cAsE = ALTerNAtiNG CaSe.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\altERnaTIng cAsE = ALTerNAtiNG CaSe\obj\Debug\altERnaTIng cAsE = ALTerNAtiNG CaSe.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\altERnaTIng cAsE = ALTerNAtiNG CaSe\obj\Debug\altERnaTIng cAsE = ALTerNAtiNG CaSe.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\altERnaTIng cAsE = ALTerNAtiNG CaSe\obj\Debug\altERnaTIng cAsE = ALTerNAtiNG CaSe.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\altERnaTIng cAsE = ALTerNAtiNG CaSe\obj\Debug\altERnaTIng cAsE = ALTerNAtiNG CaSe.pdb

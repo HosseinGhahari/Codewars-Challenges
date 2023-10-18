@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Convert a Number to a String!\bin\Debug\Convert a Number to a String!.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Convert a Number to a String!\bin\Debug\Convert a Number to a String!.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Convert a Number to a String!\bin\Debug\Convert a Number to a String!.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Convert a Number to a String!\obj\Debug\Convert a Number to a String!.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Convert a Number to a String!\obj\Debug\Convert a Number to a String!.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Convert a Number to a String!\obj\Debug\Convert a Number to a String!.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Convert a Number to a String!\obj\Debug\Convert a Number to a String!.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Convert a Number to a String!\obj\Debug\Convert a Number to a String!.pdb

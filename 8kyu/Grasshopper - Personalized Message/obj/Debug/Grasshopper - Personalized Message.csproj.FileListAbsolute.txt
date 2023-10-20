@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Personalized Message\bin\Debug\Grasshopper - Personalized Message.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Personalized Message\bin\Debug\Grasshopper - Personalized Message.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Personalized Message\bin\Debug\Grasshopper - Personalized Message.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Personalized Message\obj\Debug\Grasshopper - Personalized Message.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Personalized Message\obj\Debug\Grasshopper - Personalized Message.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Personalized Message\obj\Debug\Grasshopper - Personalized Message.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Personalized Message\obj\Debug\Grasshopper - Personalized Message.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Personalized Message\obj\Debug\Grasshopper - Personalized Message.pdb

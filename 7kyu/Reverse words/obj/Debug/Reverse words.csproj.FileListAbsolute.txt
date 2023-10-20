@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Reverse words\bin\Debug\Reverse words.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Reverse words\bin\Debug\Reverse words.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Reverse words\bin\Debug\Reverse words.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Reverse words\obj\Debug\Reverse words.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Reverse words\obj\Debug\Reverse words.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Reverse words\obj\Debug\Reverse words.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Reverse words\obj\Debug\Reverse words.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Reverse words\obj\Debug\Reverse words.pdb

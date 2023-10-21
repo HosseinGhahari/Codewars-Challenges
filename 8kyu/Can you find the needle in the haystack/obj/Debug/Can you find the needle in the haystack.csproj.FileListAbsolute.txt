@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Can you find the needle in the haystack\bin\Debug\Can you find the needle in the haystack.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Can you find the needle in the haystack\bin\Debug\Can you find the needle in the haystack.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Can you find the needle in the haystack\bin\Debug\Can you find the needle in the haystack.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Can you find the needle in the haystack\obj\Debug\Can you find the needle in the haystack.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Can you find the needle in the haystack\obj\Debug\Can you find the needle in the haystack.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Can you find the needle in the haystack\obj\Debug\Can you find the needle in the haystack.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Can you find the needle in the haystack\obj\Debug\Can you find the needle in the haystack.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Can you find the needle in the haystack\obj\Debug\Can you find the needle in the haystack.pdb

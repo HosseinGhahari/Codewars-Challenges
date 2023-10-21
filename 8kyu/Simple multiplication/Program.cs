@@ -28,7 +28,6 @@ namespace Simple_multiplication
            {
                 return x * 9;
            }
-
         }
     }
 

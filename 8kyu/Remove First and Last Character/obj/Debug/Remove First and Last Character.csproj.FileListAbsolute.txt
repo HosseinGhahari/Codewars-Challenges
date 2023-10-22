@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove First and Last Character\bin\Debug\Remove First and Last Character.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove First and Last Character\bin\Debug\Remove First and Last Character.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove First and Last Character\bin\Debug\Remove First and Last Character.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove First and Last Character\obj\Debug\Remove First and Last Character.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove First and Last Character\obj\Debug\Remove First and Last Character.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove First and Last Character\obj\Debug\Remove First and Last Character.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove First and Last Character\obj\Debug\Remove First and Last Character.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove First and Last Character\obj\Debug\Remove First and Last Character.pdb

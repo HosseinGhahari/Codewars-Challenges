@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Complementary DNA\bin\Debug\Complementary DNA.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Complementary DNA\bin\Debug\Complementary DNA.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Complementary DNA\bin\Debug\Complementary DNA.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Complementary DNA\obj\Debug\Complementary DNA.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Complementary DNA\obj\Debug\Complementary DNA.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Complementary DNA\obj\Debug\Complementary DNA.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Complementary DNA\obj\Debug\Complementary DNA.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Complementary DNA\obj\Debug\Complementary DNA.pdb

@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the smallest integer in the array\bin\Debug\Find the smallest integer in the array.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the smallest integer in the array\bin\Debug\Find the smallest integer in the array.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the smallest integer in the array\bin\Debug\Find the smallest integer in the array.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the smallest integer in the array\obj\Debug\Find the smallest integer in the array.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the smallest integer in the array\obj\Debug\Find the smallest integer in the array.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the smallest integer in the array\obj\Debug\Find the smallest integer in the array.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the smallest integer in the array\obj\Debug\Find the smallest integer in the array.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the smallest integer in the array\obj\Debug\Find the smallest integer in the array.pdb

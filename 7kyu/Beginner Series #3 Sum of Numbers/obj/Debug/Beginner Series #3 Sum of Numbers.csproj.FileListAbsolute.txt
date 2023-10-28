@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Beginner Series #3 Sum of Numbers\bin\Debug\Beginner Series #3 Sum of Numbers.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Beginner Series #3 Sum of Numbers\bin\Debug\Beginner Series #3 Sum of Numbers.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Beginner Series #3 Sum of Numbers\bin\Debug\Beginner Series #3 Sum of Numbers.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Beginner Series #3 Sum of Numbers\obj\Debug\Beginner Series #3 Sum of Numbers.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Beginner Series #3 Sum of Numbers\obj\Debug\Beginner Series #3 Sum of Numbers.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Beginner Series #3 Sum of Numbers\obj\Debug\Beginner Series #3 Sum of Numbers.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Beginner Series #3 Sum of Numbers\obj\Debug\Beginner Series #3 Sum of Numbers.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Beginner Series #3 Sum of Numbers\obj\Debug\Beginner Series #3 Sum of Numbers.pdb

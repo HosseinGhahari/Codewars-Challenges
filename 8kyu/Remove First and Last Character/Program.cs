@@ -32,7 +32,6 @@ namespace Remove_First_and_Last_Character
 
 
 
-
             // Solution 2 - indeed it does not remove just ignore the first and last
 
 

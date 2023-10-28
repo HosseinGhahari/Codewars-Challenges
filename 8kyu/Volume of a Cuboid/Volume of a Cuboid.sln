@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volume of a Cuboid", "Volume of a Cuboid.csproj", "{F83D4762-2EE9-4109-B050-4939F72E122D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F83D4762-2EE9-4109-B050-4939F72E122D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83D4762-2EE9-4109-B050-4939F72E122D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83D4762-2EE9-4109-B050-4939F72E122D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83D4762-2EE9-4109-B050-4939F72E122D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A490832D-BA61-4ABD-9BCA-8DF1F2198F3C}
+	EndGlobalSection
+EndGlobal

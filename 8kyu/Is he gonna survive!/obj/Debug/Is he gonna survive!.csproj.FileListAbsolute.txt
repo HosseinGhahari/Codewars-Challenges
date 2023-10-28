@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is he gonna survive!\bin\Debug\Is he gonna survive!.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is he gonna survive!\bin\Debug\Is he gonna survive!.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is he gonna survive!\bin\Debug\Is he gonna survive!.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is he gonna survive!\obj\Debug\Is he gonna survive!.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is he gonna survive!\obj\Debug\Is he gonna survive!.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is he gonna survive!\obj\Debug\Is he gonna survive!.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is he gonna survive!\obj\Debug\Is he gonna survive!.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is he gonna survive!\obj\Debug\Is he gonna survive!.pdb

@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Rock Paper Scissors!\bin\Debug\Rock Paper Scissors!.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Rock Paper Scissors!\bin\Debug\Rock Paper Scissors!.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Rock Paper Scissors!\bin\Debug\Rock Paper Scissors!.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Rock Paper Scissors!\obj\Debug\Rock Paper Scissors!.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Rock Paper Scissors!\obj\Debug\Rock Paper Scissors!.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Rock Paper Scissors!\obj\Debug\Rock Paper Scissors!.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Rock Paper Scissors!\obj\Debug\Rock Paper Scissors!.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Rock Paper Scissors!\obj\Debug\Rock Paper Scissors!.pdb

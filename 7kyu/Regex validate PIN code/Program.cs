@@ -27,7 +27,7 @@ namespace Regex_validate_PIN_code
     {
         public static bool ValidatePin(string pin)
         {
-      
+
             bool check = true;
 
             if (!string.IsNullOrEmpty(pin))
@@ -58,8 +58,7 @@ namespace Regex_validate_PIN_code
             { 
                 return check = false; 
             }
-
-
+       
         }
     }
 

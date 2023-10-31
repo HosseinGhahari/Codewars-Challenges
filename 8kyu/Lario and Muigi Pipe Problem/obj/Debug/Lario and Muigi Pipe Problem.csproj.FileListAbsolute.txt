@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Lario and Muigi Pipe Problem\bin\Debug\Lario and Muigi Pipe Problem.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Lario and Muigi Pipe Problem\bin\Debug\Lario and Muigi Pipe Problem.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Lario and Muigi Pipe Problem\bin\Debug\Lario and Muigi Pipe Problem.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Lario and Muigi Pipe Problem\obj\Debug\Lario and Muigi Pipe Problem.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Lario and Muigi Pipe Problem\obj\Debug\Lario and Muigi Pipe Problem.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Lario and Muigi Pipe Problem\obj\Debug\Lario and Muigi Pipe Problem.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Lario and Muigi Pipe Problem\obj\Debug\Lario and Muigi Pipe Problem.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Lario and Muigi Pipe Problem\obj\Debug\Lario and Muigi Pipe Problem.pdb

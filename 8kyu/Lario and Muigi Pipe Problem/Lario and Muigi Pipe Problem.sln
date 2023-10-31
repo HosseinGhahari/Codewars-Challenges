@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lario and Muigi Pipe Problem", "Lario and Muigi Pipe Problem.csproj", "{0C814733-720B-4D7D-8F21-66CD7E49698F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C814733-720B-4D7D-8F21-66CD7E49698F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C814733-720B-4D7D-8F21-66CD7E49698F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C814733-720B-4D7D-8F21-66CD7E49698F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C814733-720B-4D7D-8F21-66CD7E49698F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FA5D8F9-FC5A-428F-82DD-A46754F4EF17}
+	EndGlobalSection
+EndGlobal

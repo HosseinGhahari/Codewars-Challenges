@@ -1,0 +1,8 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Reduce but Grow\bin\Debug\Beginner - Reduce but Grow.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Reduce but Grow\bin\Debug\Beginner - Reduce but Grow.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Reduce but Grow\bin\Debug\Beginner - Reduce but Grow.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Reduce but Grow\obj\Debug\Beginner - Reduce but Grow.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Reduce but Grow\obj\Debug\Beginner - Reduce but Grow.csproj.SuggestedBindingRedirects.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Reduce but Grow\obj\Debug\Beginner - Reduce but Grow.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Reduce but Grow\obj\Debug\Beginner - Reduce but Grow.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Reduce but Grow\obj\Debug\Beginner - Reduce but Grow.pdb

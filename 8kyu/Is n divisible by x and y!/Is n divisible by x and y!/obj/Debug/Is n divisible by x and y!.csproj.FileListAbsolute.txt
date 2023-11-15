@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is n divisible by x and y!\Is n divisible by x and y!\bin\Debug\Is n divisible by x and y!.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is n divisible by x and y!\Is n divisible by x and y!\bin\Debug\Is n divisible by x and y!.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is n divisible by x and y!\Is n divisible by x and y!\bin\Debug\Is n divisible by x and y!.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is n divisible by x and y!\Is n divisible by x and y!\obj\Debug\Is n divisible by x and y!.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is n divisible by x and y!\Is n divisible by x and y!\obj\Debug\Is n divisible by x and y!.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is n divisible by x and y!\Is n divisible by x and y!\obj\Debug\Is n divisible by x and y!.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Is n divisible by x and y!\Is n divisible by x and y!\obj\Debug\Is n divisible by x and y!.pdb

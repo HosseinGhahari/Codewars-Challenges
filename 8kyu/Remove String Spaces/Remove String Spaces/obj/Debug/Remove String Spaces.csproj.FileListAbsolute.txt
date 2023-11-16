@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove String Spaces\Remove String Spaces\bin\Debug\Remove String Spaces.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove String Spaces\Remove String Spaces\bin\Debug\Remove String Spaces.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove String Spaces\Remove String Spaces\bin\Debug\Remove String Spaces.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove String Spaces\Remove String Spaces\obj\Debug\Remove String Spaces.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove String Spaces\Remove String Spaces\obj\Debug\Remove String Spaces.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove String Spaces\Remove String Spaces\obj\Debug\Remove String Spaces.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Remove String Spaces\Remove String Spaces\obj\Debug\Remove String Spaces.pdb

@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Opposites Attract\Opposites Attract\bin\Debug\Opposites Attract.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Opposites Attract\Opposites Attract\bin\Debug\Opposites Attract.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Opposites Attract\Opposites Attract\bin\Debug\Opposites Attract.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Opposites Attract\Opposites Attract\obj\Debug\Opposites Attract.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Opposites Attract\Opposites Attract\obj\Debug\Opposites Attract.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Opposites Attract\Opposites Attract\obj\Debug\Opposites Attract.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Opposites Attract\Opposites Attract\obj\Debug\Opposites Attract.pdb

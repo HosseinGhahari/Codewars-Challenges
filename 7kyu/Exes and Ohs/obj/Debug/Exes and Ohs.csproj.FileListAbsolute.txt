@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Exes and Ohs\bin\Debug\Exes and Ohs.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Exes and Ohs\bin\Debug\Exes and Ohs.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Exes and Ohs\bin\Debug\Exes and Ohs.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Exes and Ohs\obj\Debug\Exes and Ohs.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Exes and Ohs\obj\Debug\Exes and Ohs.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Exes and Ohs\obj\Debug\Exes and Ohs.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Exes and Ohs\obj\Debug\Exes and Ohs.pdb

@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Disemvowel Trolls\bin\Debug\Disemvowel Trolls.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Disemvowel Trolls\bin\Debug\Disemvowel Trolls.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Disemvowel Trolls\bin\Debug\Disemvowel Trolls.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Disemvowel Trolls\obj\Debug\Disemvowel Trolls.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Disemvowel Trolls\obj\Debug\Disemvowel Trolls.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Disemvowel Trolls\obj\Debug\Disemvowel Trolls.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Disemvowel Trolls\obj\Debug\Disemvowel Trolls.pdb

@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Difference of Volumes of Cuboids\bin\Debug\Difference of Volumes of Cuboids.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Difference of Volumes of Cuboids\bin\Debug\Difference of Volumes of Cuboids.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Difference of Volumes of Cuboids\bin\Debug\Difference of Volumes of Cuboids.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Difference of Volumes of Cuboids\obj\Debug\Difference of Volumes of Cuboids.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Difference of Volumes of Cuboids\obj\Debug\Difference of Volumes of Cuboids.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Difference of Volumes of Cuboids\obj\Debug\Difference of Volumes of Cuboids.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Difference of Volumes of Cuboids\obj\Debug\Difference of Volumes of Cuboids.pdb

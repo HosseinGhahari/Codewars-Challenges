@@ -41,10 +41,11 @@ namespace All_Star_Code_Challenge__18
                 {
                     count++;
                 }
-                else
-                {
-                    return 0;
-                }
+            }
+
+            if (count == 0)
+            {
+                return 0;
             }
 
             return count;

@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\All Star Code Challenge #18\bin\Debug\All Star Code Challenge #18.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\All Star Code Challenge #18\bin\Debug\All Star Code Challenge #18.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\All Star Code Challenge #18\bin\Debug\All Star Code Challenge #18.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\All Star Code Challenge #18\obj\Debug\All Star Code Challenge #18.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\All Star Code Challenge #18\obj\Debug\All Star Code Challenge #18.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\All Star Code Challenge #18\obj\Debug\All Star Code Challenge #18.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\All Star Code Challenge #18\obj\Debug\All Star Code Challenge #18.pdb

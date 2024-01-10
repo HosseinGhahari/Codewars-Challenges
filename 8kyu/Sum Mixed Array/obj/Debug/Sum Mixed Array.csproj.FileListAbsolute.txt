@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Mixed Array\bin\Debug\Sum Mixed Array.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Mixed Array\bin\Debug\Sum Mixed Array.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Mixed Array\bin\Debug\Sum Mixed Array.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Mixed Array\obj\Debug\Sum Mixed Array.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Mixed Array\obj\Debug\Sum Mixed Array.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Mixed Array\obj\Debug\Sum Mixed Array.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Sum Mixed Array\obj\Debug\Sum Mixed Array.pdb

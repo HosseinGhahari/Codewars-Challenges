@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Basic Function Fixer\bin\Debug\Grasshopper - Basic Function Fixer.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Basic Function Fixer\bin\Debug\Grasshopper - Basic Function Fixer.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Basic Function Fixer\bin\Debug\Grasshopper - Basic Function Fixer.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Basic Function Fixer\obj\Debug\Grasshopper - Basic Function Fixer.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Basic Function Fixer\obj\Debug\Grasshopper - Basic Function Fixer.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Basic Function Fixer\obj\Debug\Grasshopper - Basic Function Fixer.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Grasshopper - Basic Function Fixer\obj\Debug\Grasshopper - Basic Function Fixer.pdb

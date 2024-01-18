@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Count the number of Duplicates\bin\Debug\Count the number of Duplicates.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Count the number of Duplicates\bin\Debug\Count the number of Duplicates.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Count the number of Duplicates\bin\Debug\Count the number of Duplicates.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Count the number of Duplicates\obj\Debug\Count the number of Duplicates.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Count the number of Duplicates\obj\Debug\Count the number of Duplicates.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Count the number of Duplicates\obj\Debug\Count the number of Duplicates.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Count the number of Duplicates\obj\Debug\Count the number of Duplicates.pdb

@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Break camelCase\bin\Debug\Break camelCase.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Break camelCase\bin\Debug\Break camelCase.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Break camelCase\bin\Debug\Break camelCase.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Break camelCase\obj\Debug\Break camelCase.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Break camelCase\obj\Debug\Break camelCase.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Break camelCase\obj\Debug\Break camelCase.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Break camelCase\obj\Debug\Break camelCase.pdb

@@ -29,18 +29,23 @@ namespace Unique_In_Order
     {
         public static IEnumerable<T> UniqueInOrder<T>(IEnumerable<T> iterable)
         {
-            var Result = default(T);
+            var first = iterable.First();
+
+            var Result = new List<T>();
+
+            Result.Add(first);
 
             foreach (var item in iterable)
             {
-                if (item.Equals(Result))
+                if (item.Equals(first))
                 {
                     continue;
                 }
-                Result = item;
-
-                yield return item;
+                first = item;
+                Result.Add(item);
             }
+
+            return Result;
         }
     }
 

@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Find the unique number\bin\Debug\Find the unique number.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Find the unique number\bin\Debug\Find the unique number.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Find the unique number\bin\Debug\Find the unique number.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Find the unique number\obj\Debug\Find the unique number.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Find the unique number\obj\Debug\Find the unique number.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Find the unique number\obj\Debug\Find the unique number.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\6kyu\Find the unique number\obj\Debug\Find the unique number.pdb

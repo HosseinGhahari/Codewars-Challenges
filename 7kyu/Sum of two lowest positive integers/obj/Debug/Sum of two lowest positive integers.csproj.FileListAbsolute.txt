@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Sum of two lowest positive integers\bin\Debug\Sum of two lowest positive integers.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Sum of two lowest positive integers\bin\Debug\Sum of two lowest positive integers.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Sum of two lowest positive integers\bin\Debug\Sum of two lowest positive integers.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Sum of two lowest positive integers\obj\Debug\Sum of two lowest positive integers.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Sum of two lowest positive integers\obj\Debug\Sum of two lowest positive integers.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Sum of two lowest positive integers\obj\Debug\Sum of two lowest positive integers.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Sum of two lowest positive integers\obj\Debug\Sum of two lowest positive integers.pdb

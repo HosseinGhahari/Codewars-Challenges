@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Terminal game move function\Terminal game move function\bin\Debug\Terminal game move function.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Terminal game move function\Terminal game move function\bin\Debug\Terminal game move function.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Terminal game move function\Terminal game move function\bin\Debug\Terminal game move function.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Terminal game move function\Terminal game move function\obj\Debug\Terminal game move function.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Terminal game move function\Terminal game move function\obj\Debug\Terminal game move function.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Terminal game move function\Terminal game move function\obj\Debug\Terminal game move function.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Terminal game move function\Terminal game move function\obj\Debug\Terminal game move function.pdb

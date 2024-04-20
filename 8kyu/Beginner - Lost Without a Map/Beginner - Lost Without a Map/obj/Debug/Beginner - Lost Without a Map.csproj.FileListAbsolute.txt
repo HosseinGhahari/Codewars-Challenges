@@ -1,0 +1,7 @@
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Lost Without a Map\Beginner - Lost Without a Map\bin\Debug\Beginner - Lost Without a Map.exe.config
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Lost Without a Map\Beginner - Lost Without a Map\bin\Debug\Beginner - Lost Without a Map.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Lost Without a Map\Beginner - Lost Without a Map\bin\Debug\Beginner - Lost Without a Map.pdb
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Lost Without a Map\Beginner - Lost Without a Map\obj\Debug\Beginner - Lost Without a Map.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Lost Without a Map\Beginner - Lost Without a Map\obj\Debug\Beginner - Lost Without a Map.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Lost Without a Map\Beginner - Lost Without a Map\obj\Debug\Beginner - Lost Without a Map.exe
+C:\My Work\2- Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Beginner - Lost Without a Map\Beginner - Lost Without a Map\obj\Debug\Beginner - Lost Without a Map.pdb

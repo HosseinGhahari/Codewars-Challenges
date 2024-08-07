@@ -1,0 +1,7 @@
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Most digits\bin\Debug\Most digits.exe.config
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Most digits\bin\Debug\Most digits.exe
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Most digits\bin\Debug\Most digits.pdb
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Most digits\obj\Debug\Most digits.csproj.AssemblyReference.cache
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Most digits\obj\Debug\Most digits.csproj.CoreCompileInputs.cache
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Most digits\obj\Debug\Most digits.exe
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Most digits\obj\Debug\Most digits.pdb

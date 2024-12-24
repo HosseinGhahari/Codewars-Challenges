@@ -1,0 +1,7 @@
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Mumbling\bin\Debug\Mumbling.exe.config
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Mumbling\bin\Debug\Mumbling.exe
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Mumbling\bin\Debug\Mumbling.pdb
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Mumbling\obj\Debug\Mumbling.csproj.AssemblyReference.cache
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Mumbling\obj\Debug\Mumbling.csproj.CoreCompileInputs.cache
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Mumbling\obj\Debug\Mumbling.exe
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Mumbling\obj\Debug\Mumbling.pdb

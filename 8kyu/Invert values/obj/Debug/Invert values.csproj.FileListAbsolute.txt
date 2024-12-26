@@ -1,0 +1,7 @@
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Invert values\bin\Debug\Invert values.exe.config
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Invert values\bin\Debug\Invert values.exe
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Invert values\bin\Debug\Invert values.pdb
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Invert values\obj\Debug\Invert values.csproj.AssemblyReference.cache
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Invert values\obj\Debug\Invert values.csproj.CoreCompileInputs.cache
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Invert values\obj\Debug\Invert values.exe
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Invert values\obj\Debug\Invert values.pdb

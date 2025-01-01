@@ -1,0 +1,7 @@
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the first non-consecutive number\bin\Debug\Find the first non-consecutive number.exe.config
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the first non-consecutive number\bin\Debug\Find the first non-consecutive number.exe
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the first non-consecutive number\bin\Debug\Find the first non-consecutive number.pdb
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the first non-consecutive number\obj\Debug\Find the first non-consecutive number.csproj.AssemblyReference.cache
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the first non-consecutive number\obj\Debug\Find the first non-consecutive number.csproj.CoreCompileInputs.cache
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the first non-consecutive number\obj\Debug\Find the first non-consecutive number.exe
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\8kyu\Find the first non-consecutive number\obj\Debug\Find the first non-consecutive number.pdb

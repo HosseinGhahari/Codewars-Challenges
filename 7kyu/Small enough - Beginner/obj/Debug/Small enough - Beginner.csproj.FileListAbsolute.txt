@@ -1,0 +1,7 @@
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Small enough - Beginner\bin\Debug\Small enough - Beginner.exe.config
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Small enough - Beginner\bin\Debug\Small enough - Beginner.exe
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Small enough - Beginner\bin\Debug\Small enough - Beginner.pdb
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Small enough - Beginner\obj\Debug\Small enough - Beginner.csproj.AssemblyReference.cache
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Small enough - Beginner\obj\Debug\Small enough - Beginner.csproj.CoreCompileInputs.cache
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Small enough - Beginner\obj\Debug\Small enough - Beginner.exe
+C:\My Work\1 - Programming\3- C# Learning\1-Practise And Learning\Codewar-Challenges\7kyu\Small enough - Beginner\obj\Debug\Small enough - Beginner.pdb
